@@ -1,1 +1,1 @@
-# course-project-web-app
+# mobile-food-app
